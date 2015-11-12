@@ -1,0 +1,4 @@
+ 1. http://stackoverflow.com/questions/24387376/r-weird-error-could-not-find-function-multiplot 
+ 2. http://www.cookbook-r.com
+ 3. Journal of Statistical Software: Self- and Super-organizing Maps in R: The kohonen Package, R. Wehrens and L.M.C. Buydens
+ 4. http://www.cyclismo.org/tutorial/R/linearLeastSquares.html
